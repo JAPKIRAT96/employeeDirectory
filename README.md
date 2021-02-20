@@ -6,7 +6,7 @@
 
 ## App View
 
-<img src="./public/appView.png" width="500">
+<img src="./public/appView.png" width="600">
 
 ## Link
 
