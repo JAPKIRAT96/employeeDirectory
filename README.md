@@ -10,7 +10,7 @@
 
 ## Link
 
-- Heroku:
+- Heroku: https://employeedirectory96.herokuapp.com
 
 ## Directions
 
